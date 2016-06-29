@@ -2,5 +2,5 @@
 
 Hello world !
 
-How great it feels using new tools !
+How great it feels to use new tools !
 Have a nice day :)
